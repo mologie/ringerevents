@@ -1,0 +1,11 @@
+Package: com.mologie.ringerevents
+Name: Ringer Events for Activator
+Depends: firmware (>= 6), libactivator, mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Mute/unmute Activator events
+Maintainer: Oliver Kuckertz <support+cydia@mologie.com>
+Author: Oliver Kuckertz <support+cydia@mologie.com>
+Section: Addons
+Tag: purpose::extension
+Priority: optional
